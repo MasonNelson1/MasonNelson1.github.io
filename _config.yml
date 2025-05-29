@@ -1,9 +1,2 @@
-theme: jekyll-theme-minimal
-title: Mason's homepage
-description: Bookmark this to keep an eye on my project updates!
-
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+name: My Site
+theme: minima
